@@ -1,1 +1,1 @@
-# BlueBoard-2-iPadOS-
+# BlueBoard-2 (iPadOS)
