@@ -55,7 +55,7 @@ Notes:
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |
-|---------|----------|---------|----------|---------|----------|
+|---------|----------|
 | iPad Air | Planned |
 | iPad Mini 2 | Planned |
 | iPad Mini 3 | Planned |
