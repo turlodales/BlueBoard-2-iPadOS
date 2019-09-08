@@ -6,34 +6,52 @@ Apache License 2.0
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Hello and Welcome This is my own attempted to get it reworking but for 32bit Devices and some 64bit devices will work.
+Hello and Welcome this is my own attempted to get reworking my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better for my own mind
 
 | Decsription | Link|
 |---------|----------|
 | BlueBoard (32/64bit) | https://github.com/turlodales/BlueBoard |
 | BlueBoard-2 (64bit)  | https://github.com/turlodales/BlueBoard-2 |
+| BlueBoard-2 (iPadOS) | https://github.com/turlodales/BlueBoard-2-iPadOS |
 | BlueBoard-2 (TVOS)   | https://github.com/turlodales/BlueBoard-2-TVOS |
 
-This is my own attempted to get reworking my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better for my own mind
+my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better and easyer for my own mind.
 
 My own plan is to make it work from see below
 
-- [ ] iPadOS 13
+- [x] ipadOS 13  
 
-my plain is to make a working verson of BlueBoard 2 for iPadOS 13.0 to 13.1
+
+my plain is to make a working verson of SpinSettings for ios 13.0 to 13.1
 
 why am i putting is on github:
 
-for one resaon only extra backup i have the project on my mac mini 2012, my MacBook Pro 2012 my own freenas server system, and github so if any one of them gets cruppted i have backup saved.
+for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
 
 My own road map
 - [x] Step 1 = Get read me finished 
-- [ ] Step 2 = Start working on the tweak
+- [x] Step 2 = Start working on the tweak
 - [ ] Step 3 = Get it working on My Own Devices
 - [ ] Step 4 = Get New Devices or ask for Beta Testers
 - [ ] Step 5 = Fix bugs 
 - [ ] Step 6 = Relise to the public
 - [ ] Step 7 = Update when needed 
+
+# Not Supported Devices Yet above iOS 13
+| Device        | Staus   | 
+|---------|----------|
+|  iPad Mini 4 | Planned |
+|  iPad Mini 5 | Planned |
+|  iPad Air 2    | Planned |
+|  iPad Air 3  | Planned |
+|  iPad Pro 12.9-inch (1st Gen)| Planned |
+|  iPad Pro 9.7-inch  (1st Gen)| Planned |
+|  iPad 2017          (5th Gen)| Planned |
+|  iPad Pro 12.9-inch (2nd Gen)| Planned |
+|  iPad Pro 10.5-inch (2nd Gen)| Planned |
+|  iPad 2018          (6th Gen)| Planned |
+|  iPad Pro 11-inch   (3rd Gen)| Planned |
+|  iPad Pro 12.9-inch (3rd Gen)| Planned |
 
 
 Notes: 
@@ -46,20 +64,19 @@ Notes:
 # Devices 64Bit
 
 # Supported Devices 64Bit
-| Device | Supports |
+| Device      | Supports |
 |---------|----------|
-| iPad Air 2 | iOS 9.3.3 |
-| iPad Pro (12.9 inch) 1st gen |10.2|
+| iPad Air 2  | iOS 9.3.3 |
+| iPad Pro 12.9-inch (1st gen) |10.2|
 | iPad Pro 12.9-inch (3rd Gen)| Planned |
 
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |
 |---------|----------|
-| iPad Air | Planned |
-| iPad Mini 2 | Planned |
-| iPad Mini 3 | Planned |
+| iPad Air 3 | Planned |
 | iPad Mini 4 | Planned |
+| iPad Mini 5 | Planned |
 | iPad 2017 | Planned |
 | iPad Pro (9.7 inch 1st gen | Planned |
 | iPad Pro (12.9 inch) 2nd gen|Planned|
@@ -68,11 +85,11 @@ Notes:
 | iPad Pro 11-inch (3rd Gen| Planned |
 
 
-# Supported Devices iPadOS 13.0 to iPadOS 13.1 
-|iOS|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|13.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
-|13.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+# Supported Devices iPadOS 13.0 to iOS 13.1 
+|iPadOS|iPad Mini 4|iPad Mini 5|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iPadOS 13.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
 
 -----------------------------------------------------------------------------------------------------------------------------
