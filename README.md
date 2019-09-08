@@ -18,15 +18,9 @@ This is my own attempted to get reworking my layout is taken form another tweak 
 
 My own plan is to make it work from see below
 
-- [x] iOS 7  
-- [x] iOS 8  
-- [x] iOS 9 
-- [x] iOS 10 
-- [ ] iOS 11
-- [ ] iOS 12
-- [ ] iOS 13
+- [ ] iPadOS 13
 
-my plain is to make a working verson of BlueBoard 2 for ios 11.0 to 12.0
+my plain is to make a working verson of BlueBoard 2 for iPadOS 13.0 to 13.1
 
 why am i putting is on github:
 
