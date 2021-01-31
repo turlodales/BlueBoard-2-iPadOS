@@ -68,7 +68,8 @@ Notes:
 |---------|----------|
 | iPad Air 2  | iOS 9.3.3 |
 | iPad Pro 12.9-inch (1st gen) |10.2|
-| iPad Pro 12.9-inch (3rd Gen)| Planned |
+| iPad Pro 12.9-inch (3rd Gen)| 13.5 |
+| iPad Mini 2 | 12.5.1 |
 
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
